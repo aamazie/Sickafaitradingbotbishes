@@ -7,3 +7,6 @@ python script. run it in a cloud server with npm pm-2.
 perpetually runs.
 
 prob won't crash but it's sentiment analysis from gpt4.
+
+
+ok. the error is in the amount=.01. you coullllld find the coinbase api function to you full amount but trading is really based on bet sizes. you can win a hand in poker but in the end you win with how big your bets are or arent based on the situation...
